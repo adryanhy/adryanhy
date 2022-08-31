@@ -1,5 +1,4 @@
 <img src = "giphy.gif" width = "325px" align = "right">
-
 # 👾Seja bem vindo ao meu Github!! Aqui é onde publico alguns projetos da faculdade e pessoais.👾 
 <div id="badges">
   <a href = "https://github.com/adryanhy">
