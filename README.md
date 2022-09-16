@@ -1,7 +1,9 @@
 <img src = "giphy.gif" width = "325px" align = "right">
 # 👾Seja bem vindo ao meu Github!! Aqui é onde publico alguns projetos da faculdade e pessoais.👾 
 <div id="badges">
-  <a href = "[https://github.com/adryanhy](https://www.linkedin.com/in/adryan-andre-a2677a225/](https://www.linkedin.com/in/adryan-andre-a2677a225/)">
+  <a 
+     target="_blank"
+     href = "https://www.linkedin.com/in/adryan-andre-a2677a225/">
   <br>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
