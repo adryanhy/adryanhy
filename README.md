@@ -10,7 +10,7 @@
 </div>
 
 - 📚 Estudante de Analise e Desenvolvimento de Sistemas
-- 💻 Aprendendo algo sobre back-end
+- 💻 Aprendendo sobre back-end e front-end
 
 <div>
 <br>
